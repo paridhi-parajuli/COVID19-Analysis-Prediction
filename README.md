@@ -10,3 +10,6 @@ Visualizations were performed using plotly and matplotlib libraries
 
 
 Time series prediction was done using the Prophet library 
+
+
+Access the interactive plots at https://colab.research.google.com/drive/1P3KwqVjKwSxu1MTEyduZh1P378ROfTOK?usp=sharing
